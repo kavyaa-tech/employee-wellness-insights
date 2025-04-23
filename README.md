@@ -73,7 +73,7 @@ Inspired by the mission of companies like **eKincare** who focus on proactive em
 
 ## 🔗 Related Links
 
-- [View LinkedIn Post](https://www.linkedin.com)
+- [View LinkedIn Post]([https://www.linkedin.com](https://www.linkedin.com/posts/kavya-dataprofessional_powerbi-dataanalytics-dashboard-activity-7320681750869807104-3TU6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1tJxUBss09XucC0pq4zYt1UvllexDQLiQ))
 
 ---
 
