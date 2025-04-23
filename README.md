@@ -55,8 +55,6 @@ Key fields:
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
-
 ![Dashboard Screenshot 1](https://github.com/user-attachments/assets/e0e62850-58ae-4486-9186-0db43ed6cf6b)
 
 ![Dashboard Screenshot 2](https://github.com/user-attachments/assets/fbb5b355-f02a-437d-b5c5-a7c8ffe8052c)
