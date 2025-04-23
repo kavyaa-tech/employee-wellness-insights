@@ -55,8 +55,8 @@ Key fields:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](<img width="481" alt="image" src="https://github.com/user-attachments/assets/e0e62850-58ae-4486-9186-0db43ed6cf6b" />
-,<img width="475" alt="image" src="https://github.com/user-attachments/assets/fbb5b355-f02a-437d-b5c5-a7c8ffe8052c" />
+![Dashboard Screenshot 1](<img width="481" alt="image" src="https://github.com/user-attachments/assets/e0e62850-58ae-4486-9186-0db43ed6cf6b" />)
+![Dashboard Screenshot 12](<img width="475" alt="image" src="https://github.com/user-attachments/assets/fbb5b355-f02a-437d-b5c5-a7c8ffe8052c" />
 )
 
 ---
